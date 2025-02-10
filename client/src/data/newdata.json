@@ -1,0 +1,103 @@
+[
+    {
+      "translation": "Hello",
+      "languages": [
+        {
+          "name": "japanese",
+          "romanization": "Kon'nichiwa",
+          "native": "こんにちは"
+        },
+        {
+          "name": "korean",
+          "romanization": "Annyeonghaseyo",
+          "native": "안녕하세요"
+        },
+        {
+          "name": "turkish",
+          "romanization": "Merhaba",
+          "native": "Merhaba"
+        }
+      ]
+    },
+    {
+      "translation": "Thank you",
+      "languages": [
+        {
+          "name": "japanese",
+          "romanization": "Arigatou gozaimasu",
+          "native": "ありがとうございます"
+        },
+        {
+          "name": "korean",
+          "romanization": "Kamsahamnida",
+          "native": "감사합니다"
+        },
+        {
+          "name": "turkish",
+          "romanization": "Teşekkür ederim",
+          "native": "Teşekkür ederim"
+        }
+      ]
+    },
+    {
+      "translation": "Yes",
+      "languages": [
+        {
+          "name": "japanese",
+          "romanization": "Hai",
+          "native": "はい"
+        },
+        {
+          "name": "korean",
+          "romanization": "Ne",
+          "native": "네"
+        },
+        {
+          "name": "turkish",
+          "romanization": "Evet",
+          "native": "Evet"
+        }
+      ]
+    },
+    {
+      "translation": "No",
+      "languages": [
+        {
+          "name": "japanese",
+          "romanization": "Iie",
+          "native": "いいえ"
+        },
+        {
+          "name": "korean",
+          "romanization": "Aniyo",
+          "native": "아니요"
+        },
+        {
+          "name": "turkish",
+          "romanization": "Hayır",
+          "native": "Hayır"
+        }
+      ]
+    },
+    {
+      "translation": "Excuse me",
+      "languages": [
+        {
+          "name": "japanese",
+          "romanization": "Sumimasen",
+          "native": "すみません"
+        },
+        {
+          "name": "korean",
+          "romanization": "Sillyehamnida",
+          "native": "실례합니다"
+        },
+        {
+          "name": "turkish",
+          "romanization": "Affedersiniz",
+          "native": "Affedersiniz"
+        }
+      ]
+    }
+  ]
+  
